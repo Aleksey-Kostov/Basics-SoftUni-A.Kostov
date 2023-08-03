@@ -1,2 +1,2 @@
 # Basics-SoftUni-A.Kostov
-SoftUni tascs
+These are tasks from the basics course.
