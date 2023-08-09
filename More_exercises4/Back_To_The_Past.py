@@ -15,4 +15,3 @@ if money_inheritance >= 0:
     print(f"Yes! He will live a carefree life and will have {money_inheritance:.2f} dollars left.")
 else:
     print(f"He will need {abs(money_inheritance):.2f} dollars to survive.")
-
