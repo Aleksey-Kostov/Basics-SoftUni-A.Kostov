@@ -1,0 +1,6 @@
+number_of_packages_for_dogs = int (input ())
+number_of_packages_for_cats = int (input ())
+final_amount_for_dogs = float (number_of_packages_for_dogs * 2.5)
+final_amount_for_cats = float (number_of_packages_for_cats * 4)
+final_amount = (final_amount_for_cats + final_amount_for_dogs)
+print (f'{final_amount} lv.')
